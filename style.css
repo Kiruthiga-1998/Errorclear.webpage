@@ -1,0 +1,120 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2 a{   
+    color: green;
+    margin-left: 10px;
+}
+h2{
+    text-align: center;
+}
+h2 a:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+table tr,td
+{
+    border: -1px solid rgb(246, 245, 248);
+    border-collapse: collapse;
+    padding:10px 20px;
+    width: 150px;
+}
+table{
+    margin-left: 380px;
+}
+.n1
+{
+    background: linear-gradient(90deg,#199498 0%, #2c928f 80%);
+    color: white;
+}
+.n2
+{
+    background: linear-gradient(90deg,#c30b29 0%, #c50d2a 80%);
+    color: white;
+}
+.n3
+{
+    background: linear-gradient(90deg,#16dce2 0%, #0beed9 80%);
+    color: white;
+}
+.n4
+{
+    background: linear-gradient(89deg,#191be7 0%, #1617c8 80%);
+    color: white;
+}
+.n5
+{
+    background: linear-gradient(89deg,#07580d 0%, #035d05 80%);
+    color: white;
+}
+.n6
+{
+    background: linear-gradient(89deg,rgba(98,9,9,0.95) 0%, #53080e 80%);
+    color: white;
+}
+.n7
+{
+    background: linear-gradient(89deg,rgba(236,165,7,0.95) 0%, #f6ad0e 80%);
+    color: white;
+}
+.n8
+{
+    background: linear-gradient(89deg,#191be7 0%, #1617c8 80%);
+    color: white;
+}
+.n9
+{
+    background: linear-gradient(89deg,rgba(238,121,231,0.95) 0%, #f691f5 80%);
+    color: white;
+}
+#n1
+{
+    background: linear-gradient(90deg,#199498 0%, #2c928f 80%);
+    color: white;
+}
+#n2
+{
+    background: linear-gradient(90deg,#c30b29 0%, #c50d2a 80%);
+    color: white;
+}
+#n3
+{
+    background: linear-gradient(90deg,#16dce2 0%, #0beed9 80%);
+    color: white;
+}
+#n4
+{
+    background: linear-gradient(89deg,#191be7 0%, #1617c8 80%);
+    color: white;
+}
+#n5
+{
+    background: linear-gradient(89deg,#07580d 0%, #035d05 80%);
+    color: white;
+}
+#n6
+{
+    background: linear-gradient(89deg,rgba(98,9,9,0.95) 0%, #53080e 80%);
+    color: white;
+}
+#n7
+{
+    background: linear-gradient(89deg,rgba(236,165,7,0.95) 0%, #f6ad0e 80%);
+    color: white;
+}
+#n8
+{
+    background: linear-gradient(89deg,#191be7 0%, #1617c8 80%);
+    color: white;
+}
+#n9
+{
+    background: linear-gradient(89deg,rgba(238,121,231,0.95) 0%, #f691f5 80%);
+    color: white;
+}
+
+
